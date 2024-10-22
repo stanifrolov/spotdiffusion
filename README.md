@@ -10,6 +10,7 @@ Official Pytorch Implementation for "SpotDiffusion: A Fast Approach For Seamless
 # Run
 ```
 git clone https://github.com/stanifrolov/spotdiffusion.git
+cd spotdiffusion
 pip install -r requirements.txt
 python panorama.py
 ```
