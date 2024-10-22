@@ -1,0 +1,6 @@
+torch==2.2.0
+torchvision==0.17.0
+diffusers==0.30.3
+transformers==4.45.2
+tqdm
+accelerate
